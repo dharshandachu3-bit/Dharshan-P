@@ -1,0 +1,50 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && (
+        request.auth.token.email == 'dharshandachu3@gmail.com' ||
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+      );
+    }
+
+    // Default deny catch-all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Catalog designs
+    match /designs/{designId} {
+      allow read: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    // Customer inquiries
+    match /enquiries/{enquiryId} {
+      allow create: if request.resource.data.customerName is string &&
+                       request.resource.data.customerName.size() > 0 &&
+                       request.resource.data.customerName.size() <= 128 &&
+                       request.resource.data.phone is string &&
+                       request.resource.data.phone.size() > 0 &&
+                       request.resource.data.phone.size() <= 24;
+      allow read, update, delete: if isAdmin();
+    }
+
+    // Store configuration (WhatsApp, contact, hours)
+    match /config/{configId} {
+      allow read: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    // Admin role mapping
+    match /admins/{adminId} {
+      allow read: if isSignedIn();
+      allow write: if isAdmin();
+    }
+  }
+}

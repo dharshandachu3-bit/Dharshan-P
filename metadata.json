@@ -1,0 +1,6 @@
+{
+  "name": "Sangeetha Tailors",
+  "description": "Premium Indian fashion design catalog and bespoke tailoring showcase in Domlur, Bengaluru. Browse designer blouse, kurti, lehenga, salwar, formal shirts, suits and custom tailoring designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

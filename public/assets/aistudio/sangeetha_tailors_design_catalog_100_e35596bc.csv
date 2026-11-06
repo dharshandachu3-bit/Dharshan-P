@@ -1,0 +1,101 @@
+design_id,gender,category,design_name,style_details,fabric,color_option,occasion,sample_stitching_price_inr,size_options,image_search_query,is_sample_data
+L001,Ladies,Blouse,Deep U-neck blouse,"Deep U back, elbow sleeves, zari border",Silk,Ivory,Wedding,1500,Custom measurement,Ladies Indian Deep U-neck blouse Ivory design,True
+L002,Ladies,Blouse,Boat-neck blouse,"Boat neckline, contrast piping, short sleeves",Cotton silk,Maroon,Traditional,1100,Custom measurement,Ladies Indian Boat-neck blouse Maroon design,True
+L003,Ladies,Blouse,Sweetheart-neck blouse,"Sweetheart front, embellished sleeves",Raw silk,Mustard,Party,1800,Custom measurement,Ladies Indian Sweetheart-neck blouse Mustard design,True
+L004,Ladies,Blouse,High-neck embroidered blouse,"High neck, hand embroidery, back buttons",Velvet,Teal,Bridal,2500,Custom measurement,Ladies Indian High-neck embroidered blouse Teal design,True
+L005,Ladies,Blouse,Halter-neck blouse,"Halter neckline, open back, tie-up detail",Georgette,Royal Blue,Party,1600,Custom measurement,Ladies Indian Halter-neck blouse Royal Blue design,True
+L006,Ladies,Blouse,Collar-neck blouse,"Shirt collar, front hooks, three-quarter sleeves",Brocade,Pastel Pink,Festive,1900,Custom measurement,Ladies Indian Collar-neck blouse Pastel Pink design,True
+L007,Ladies,Blouse,Square-back blouse,"Square back, tassel tie-up, piping",Banarasi silk,Wine,Wedding,1700,Custom measurement,Ladies Indian Square-back blouse Wine design,True
+L008,Ladies,Blouse,Keyhole-back blouse,"Keyhole back, decorative button, cap sleeves",Silk,Black,Festive,1450,Custom measurement,Ladies Indian Keyhole-back blouse Black design,True
+L009,Ladies,Kurti,Straight-cut kurti,"Straight silhouette, side slits, 3/4 sleeves",Cotton,Emerald Green,Daily wear,900,"XS,S,M,L,XL,XXL",Ladies Indian Straight-cut kurti Emerald Green design,True
+L010,Ladies,Kurti,Anarkali kurti,"Flared panels, round neck, printed detail",Rayon,Beige,Festive,1600,"XS,S,M,L,XL,XXL",Ladies Indian Anarkali kurti Beige design,True
+L011,Ladies,Kurti,A-line kurti,"A-line shape, minimal embroidery",Linen,Ivory,Casual,1200,"XS,S,M,L,XL,XXL",Ladies Indian A-line kurti Ivory design,True
+L012,Ladies,Kurti,Angrakha kurti,"Overlap front, tie-up waist, V-neck",Chanderi,Maroon,Festive,1750,"XS,S,M,L,XL,XXL",Ladies Indian Angrakha kurti Maroon design,True
+L013,Ladies,Salwar Suit,Punjabi salwar suit,"Short kurta, pleated salwar, dupatta",Cotton,Mustard,Daily wear,1800,"XS,S,M,L,XL,XXL",Ladies Indian Punjabi salwar suit Mustard design,True
+L014,Ladies,Salwar Suit,Palazzo suit,"Long kurta, wide-leg palazzo, lace detail",Georgette,Teal,Party,2200,"XS,S,M,L,XL,XXL",Ladies Indian Palazzo suit Teal design,True
+L015,Ladies,Salwar Suit,Sharara suit,"Short kurta, flared sharara, embroidered yoke",Silk blend,Royal Blue,Wedding,3200,"XS,S,M,L,XL,XXL",Ladies Indian Sharara suit Royal Blue design,True
+L016,Ladies,Lehenga,Bridal lehenga set,"Flared skirt, embroidered blouse, dupatta",Velvet,Pastel Pink,Bridal,8500,Custom measurement,Ladies Indian Bridal lehenga set Pastel Pink design,True
+L017,Ladies,Lehenga,Mirror-work lehenga,"Mirror embellishment, can-can flare",Georgette,Wine,Sangeet,5200,Custom measurement,Ladies Indian Mirror-work lehenga Wine design,True
+L018,Ladies,Gown,Floor-length party gown,"Fitted bodice, flared skirt, embellished waist",Net,Black,Party,3800,Custom measurement,Ladies Indian Floor-length party gown Black design,True
+L019,Ladies,Gown,Anarkali floor gown,"Panelled flare, embroidered neckline",Georgette,Emerald Green,Wedding,4200,Custom measurement,Ladies Indian Anarkali floor gown Emerald Green design,True
+L020,Ladies,Dress,Indo-western maxi dress,"Printed maxi, gathered waist, 3/4 sleeves",Rayon,Beige,Casual,1900,Custom measurement,Ladies Indian Indo-western maxi dress Beige design,True
+L021,Ladies,Saree Blouse,Sleeveless designer blouse,"Sleeveless cut, scoop neck, back zip",Satin,Ivory,Party,1300,"XS,S,M,L,XL,XXL",Ladies Indian Sleeveless designer blouse Ivory design,True
+L022,Ladies,Skirt Set,Crop top and long skirt,"Flared skirt, matching crop top",Chiffon,Maroon,Party,2800,"XS,S,M,L,XL,XXL",Ladies Indian Crop top and long skirt Maroon design,True
+L023,Ladies,Co-ord Set,Kurti trouser co-ord,"Relaxed kurti, straight trousers",Cotton,Mustard,Casual,1700,"XS,S,M,L,XL,XXL",Ladies Indian Kurti trouser co-ord Mustard design,True
+L024,Ladies,Jacket,Ethnic jacket set,"Sleeveless jacket, kurta and trouser",Silk blend,Teal,Festive,2600,"XS,S,M,L,XL,XXL",Ladies Indian Ethnic jacket set Teal design,True
+L025,Ladies,Pants,Ladies straight-fit trousers,"Mid-rise waist, straight leg, side pockets",Cotton blend,Royal Blue,Formal,1200,"XS,S,M,L,XL,XXL",Ladies Indian Ladies straight-fit trousers Royal Blue design,True
+L026,Ladies,Blouse,Deep U-neck blouse - Variant 2,"Deep U back, elbow sleeves, zari border",Silk,Pastel Pink,Wedding,1600,Custom measurement,Ladies Indian Deep U-neck blouse Pastel Pink design,True
+L027,Ladies,Blouse,Boat-neck blouse - Variant 2,"Boat neckline, contrast piping, short sleeves",Cotton silk,Wine,Traditional,1200,Custom measurement,Ladies Indian Boat-neck blouse Wine design,True
+L028,Ladies,Blouse,Sweetheart-neck blouse - Variant 2,"Sweetheart front, embellished sleeves",Raw silk,Black,Party,1900,Custom measurement,Ladies Indian Sweetheart-neck blouse Black design,True
+L029,Ladies,Blouse,High-neck embroidered blouse - Variant 2,"High neck, hand embroidery, back buttons",Velvet,Emerald Green,Bridal,2600,Custom measurement,Ladies Indian High-neck embroidered blouse Emerald Green design,True
+L030,Ladies,Blouse,Halter-neck blouse - Variant 2,"Halter neckline, open back, tie-up detail",Georgette,Beige,Party,1700,Custom measurement,Ladies Indian Halter-neck blouse Beige design,True
+L031,Ladies,Blouse,Collar-neck blouse - Variant 2,"Shirt collar, front hooks, three-quarter sleeves",Brocade,Ivory,Festive,2000,Custom measurement,Ladies Indian Collar-neck blouse Ivory design,True
+L032,Ladies,Blouse,Square-back blouse - Variant 2,"Square back, tassel tie-up, piping",Banarasi silk,Maroon,Wedding,1800,Custom measurement,Ladies Indian Square-back blouse Maroon design,True
+L033,Ladies,Blouse,Keyhole-back blouse - Variant 2,"Keyhole back, decorative button, cap sleeves",Silk,Mustard,Festive,1550,Custom measurement,Ladies Indian Keyhole-back blouse Mustard design,True
+L034,Ladies,Kurti,Straight-cut kurti - Variant 2,"Straight silhouette, side slits, 3/4 sleeves",Cotton,Teal,Daily wear,1000,"XS,S,M,L,XL,XXL",Ladies Indian Straight-cut kurti Teal design,True
+L035,Ladies,Kurti,Anarkali kurti - Variant 2,"Flared panels, round neck, printed detail",Rayon,Royal Blue,Festive,1700,"XS,S,M,L,XL,XXL",Ladies Indian Anarkali kurti Royal Blue design,True
+L036,Ladies,Kurti,A-line kurti - Variant 2,"A-line shape, minimal embroidery",Linen,Pastel Pink,Casual,1300,"XS,S,M,L,XL,XXL",Ladies Indian A-line kurti Pastel Pink design,True
+L037,Ladies,Kurti,Angrakha kurti - Variant 2,"Overlap front, tie-up waist, V-neck",Chanderi,Wine,Festive,1850,"XS,S,M,L,XL,XXL",Ladies Indian Angrakha kurti Wine design,True
+L038,Ladies,Salwar Suit,Punjabi salwar suit - Variant 2,"Short kurta, pleated salwar, dupatta",Cotton,Black,Daily wear,1900,"XS,S,M,L,XL,XXL",Ladies Indian Punjabi salwar suit Black design,True
+L039,Ladies,Salwar Suit,Palazzo suit - Variant 2,"Long kurta, wide-leg palazzo, lace detail",Georgette,Emerald Green,Party,2300,"XS,S,M,L,XL,XXL",Ladies Indian Palazzo suit Emerald Green design,True
+L040,Ladies,Salwar Suit,Sharara suit - Variant 2,"Short kurta, flared sharara, embroidered yoke",Silk blend,Beige,Wedding,3300,"XS,S,M,L,XL,XXL",Ladies Indian Sharara suit Beige design,True
+L041,Ladies,Lehenga,Bridal lehenga set - Variant 2,"Flared skirt, embroidered blouse, dupatta",Velvet,Ivory,Bridal,8600,Custom measurement,Ladies Indian Bridal lehenga set Ivory design,True
+L042,Ladies,Lehenga,Mirror-work lehenga - Variant 2,"Mirror embellishment, can-can flare",Georgette,Maroon,Sangeet,5300,Custom measurement,Ladies Indian Mirror-work lehenga Maroon design,True
+L043,Ladies,Gown,Floor-length party gown - Variant 2,"Fitted bodice, flared skirt, embellished waist",Net,Mustard,Party,3900,Custom measurement,Ladies Indian Floor-length party gown Mustard design,True
+L044,Ladies,Gown,Anarkali floor gown - Variant 2,"Panelled flare, embroidered neckline",Georgette,Teal,Wedding,4300,Custom measurement,Ladies Indian Anarkali floor gown Teal design,True
+L045,Ladies,Dress,Indo-western maxi dress - Variant 2,"Printed maxi, gathered waist, 3/4 sleeves",Rayon,Royal Blue,Casual,2000,Custom measurement,Ladies Indian Indo-western maxi dress Royal Blue design,True
+L046,Ladies,Saree Blouse,Sleeveless designer blouse - Variant 2,"Sleeveless cut, scoop neck, back zip",Satin,Pastel Pink,Party,1400,"XS,S,M,L,XL,XXL",Ladies Indian Sleeveless designer blouse Pastel Pink design,True
+L047,Ladies,Skirt Set,Crop top and long skirt - Variant 2,"Flared skirt, matching crop top",Chiffon,Wine,Party,2900,"XS,S,M,L,XL,XXL",Ladies Indian Crop top and long skirt Wine design,True
+L048,Ladies,Co-ord Set,Kurti trouser co-ord - Variant 2,"Relaxed kurti, straight trousers",Cotton,Black,Casual,1800,"XS,S,M,L,XL,XXL",Ladies Indian Kurti trouser co-ord Black design,True
+L049,Ladies,Jacket,Ethnic jacket set - Variant 2,"Sleeveless jacket, kurta and trouser",Silk blend,Emerald Green,Festive,2700,"XS,S,M,L,XL,XXL",Ladies Indian Ethnic jacket set Emerald Green design,True
+L050,Ladies,Pants,Ladies straight-fit trousers - Variant 2,"Mid-rise waist, straight leg, side pockets",Cotton blend,Beige,Formal,1300,"XS,S,M,L,XL,XXL",Ladies Indian Ladies straight-fit trousers Beige design,True
+G001,Gents,Shirt,Slim-fit formal shirt,"Spread collar, button front, slim fit",Cotton,Emerald Green,Office,1100,"XS,S,M,L,XL,XXL",Gents Indian Slim-fit formal shirt Emerald Green design,True
+G002,Gents,Shirt,Classic regular-fit shirt,"Regular fit, chest pocket, full sleeves",Oxford cotton,Beige,Office,1000,"XS,S,M,L,XL,XXL",Gents Indian Classic regular-fit shirt Beige design,True
+G003,Gents,Shirt,Mandarin-collar shirt,"Band collar, curved hem, full sleeves",Linen,Ivory,Casual,1250,"XS,S,M,L,XL,XXL",Gents Indian Mandarin-collar shirt Ivory design,True
+G004,Gents,Shirt,Printed casual shirt,"All-over print, camp collar, relaxed fit",Rayon,Maroon,Casual,950,"XS,S,M,L,XL,XXL",Gents Indian Printed casual shirt Maroon design,True
+G005,Gents,Shirt,Cuban-collar shirt,"Open collar, short sleeves, boxy fit",Cotton,Mustard,Summer,1050,"XS,S,M,L,XL,XXL",Gents Indian Cuban-collar shirt Mustard design,True
+G006,Gents,Shirt,Double-pocket utility shirt,"Two flap pockets, button cuffs",Twill cotton,Teal,Casual,1350,"XS,S,M,L,XL,XXL",Gents Indian Double-pocket utility shirt Teal design,True
+G007,Gents,Shirt,Tuxedo dress shirt,"Pleated bib, pointed collar, French cuffs",Cotton satin,Royal Blue,Formal,1800,"XS,S,M,L,XL,XXL",Gents Indian Tuxedo dress shirt Royal Blue design,True
+G008,Gents,Pant,Slim-fit formal trouser,"Flat front, tapered leg, belt loops",Poly-viscose,Pastel Pink,Office,1400,"28,30,32,34,36,38,40",Gents Indian Slim-fit formal trouser Pastel Pink design,True
+G009,Gents,Pant,Regular-fit formal trouser,"Mid-rise, straight leg, crease detail",Poly cotton,Wine,Office,1300,"28,30,32,34,36,38,40",Gents Indian Regular-fit formal trouser Wine design,True
+G010,Gents,Pant,Pleated tailored trouser,"Double pleats, tapered hem",Twill,Black,Formal,1600,"28,30,32,34,36,38,40",Gents Indian Pleated tailored trouser Black design,True
+G011,Gents,Pant,Cargo pant,"Six pockets, relaxed tapered fit",Cotton twill,Emerald Green,Streetwear,1700,"28,30,32,34,36,38,40",Gents Indian Cargo pant Emerald Green design,True
+G012,Gents,Pant,Chino trouser,"Slim straight fit, slant pockets",Cotton stretch,Beige,Smart casual,1450,"28,30,32,34,36,38,40",Gents Indian Chino trouser Beige design,True
+G013,Gents,Pant,Linen summer trouser,"Drawstring waist, relaxed fit",Linen blend,Ivory,Casual,1550,"28,30,32,34,36,38,40",Gents Indian Linen summer trouser Ivory design,True
+G014,Gents,Jeans,Slim-fit denim jeans,"Five-pocket design, tapered leg",Denim,Maroon,Casual,1800,"28,30,32,34,36,38,40",Gents Indian Slim-fit denim jeans Maroon design,True
+G015,Gents,Jeans,Straight-fit denim jeans,"Classic five-pocket, straight leg",Denim,Mustard,Casual,1750,"28,30,32,34,36,38,40",Gents Indian Straight-fit denim jeans Mustard design,True
+G016,Gents,Kurta,Straight-cut kurta,"Mandarin collar, side slits, full sleeves",Cotton,Teal,Traditional,1600,"XS,S,M,L,XL,XXL",Gents Indian Straight-cut kurta Teal design,True
+G017,Gents,Kurta,Short kurta,"Short length, band collar, minimal buttons",Khadi cotton,Royal Blue,Festive,1450,"XS,S,M,L,XL,XXL",Gents Indian Short kurta Royal Blue design,True
+G018,Gents,Kurta,Pathani kurta set,"Pathani collar, front placket, matching salwar",Cotton,Pastel Pink,Traditional,2400,"XS,S,M,L,XL,XXL",Gents Indian Pathani kurta set Pastel Pink design,True
+G019,Gents,Sherwani,Wedding sherwani,"Structured fit, embroidered front, mandarin collar",Jacquard silk,Wine,Wedding,7500,"XS,S,M,L,XL,XXL",Gents Indian Wedding sherwani Wine design,True
+G020,Gents,Blazer,Two-button formal blazer,"Notch lapel, flap pockets, two-button closure",Poly-viscose,Black,Formal,4800,"XS,S,M,L,XL,XXL",Gents Indian Two-button formal blazer Black design,True
+G021,Gents,Blazer,Bandhgala jacket,"Closed neck, concealed buttons, tailored fit",Jacquard,Emerald Green,Wedding,5200,"XS,S,M,L,XL,XXL",Gents Indian Bandhgala jacket Emerald Green design,True
+G022,Gents,Waistcoat,Nehru waistcoat,"Mandarin collar, five-button front",Brocade,Beige,Festive,2300,"XS,S,M,L,XL,XXL",Gents Indian Nehru waistcoat Beige design,True
+G023,Gents,Shorts,Tailored casual shorts,"Above-knee length, side pockets",Cotton twill,Ivory,Casual,900,"28,30,32,34,36,38,40",Gents Indian Tailored casual shorts Ivory design,True
+G024,Gents,Jacket,Casual zip jacket,"Stand collar, zip front, side pockets",Twill,Maroon,Casual,2600,"XS,S,M,L,XL,XXL",Gents Indian Casual zip jacket Maroon design,True
+G025,Gents,Dhoti Set,Kurta and dhoti set,Classic kurta with stitched dhoti,Cotton silk,Mustard,Traditional,2800,"XS,S,M,L,XL,XXL",Gents Indian Kurta and dhoti set Mustard design,True
+G026,Gents,Shirt,Slim-fit formal shirt - Variant 2,"Spread collar, button front, slim fit",Cotton,Teal,Office,1200,"XS,S,M,L,XL,XXL",Gents Indian Slim-fit formal shirt Teal design,True
+G027,Gents,Shirt,Classic regular-fit shirt - Variant 2,"Regular fit, chest pocket, full sleeves",Oxford cotton,Royal Blue,Office,1100,"XS,S,M,L,XL,XXL",Gents Indian Classic regular-fit shirt Royal Blue design,True
+G028,Gents,Shirt,Mandarin-collar shirt - Variant 2,"Band collar, curved hem, full sleeves",Linen,Pastel Pink,Casual,1350,"XS,S,M,L,XL,XXL",Gents Indian Mandarin-collar shirt Pastel Pink design,True
+G029,Gents,Shirt,Printed casual shirt - Variant 2,"All-over print, camp collar, relaxed fit",Rayon,Wine,Casual,1050,"XS,S,M,L,XL,XXL",Gents Indian Printed casual shirt Wine design,True
+G030,Gents,Shirt,Cuban-collar shirt - Variant 2,"Open collar, short sleeves, boxy fit",Cotton,Black,Summer,1150,"XS,S,M,L,XL,XXL",Gents Indian Cuban-collar shirt Black design,True
+G031,Gents,Shirt,Double-pocket utility shirt - Variant 2,"Two flap pockets, button cuffs",Twill cotton,Emerald Green,Casual,1450,"XS,S,M,L,XL,XXL",Gents Indian Double-pocket utility shirt Emerald Green design,True
+G032,Gents,Shirt,Tuxedo dress shirt - Variant 2,"Pleated bib, pointed collar, French cuffs",Cotton satin,Beige,Formal,1900,"XS,S,M,L,XL,XXL",Gents Indian Tuxedo dress shirt Beige design,True
+G033,Gents,Pant,Slim-fit formal trouser - Variant 2,"Flat front, tapered leg, belt loops",Poly-viscose,Ivory,Office,1500,"28,30,32,34,36,38,40",Gents Indian Slim-fit formal trouser Ivory design,True
+G034,Gents,Pant,Regular-fit formal trouser - Variant 2,"Mid-rise, straight leg, crease detail",Poly cotton,Maroon,Office,1400,"28,30,32,34,36,38,40",Gents Indian Regular-fit formal trouser Maroon design,True
+G035,Gents,Pant,Pleated tailored trouser - Variant 2,"Double pleats, tapered hem",Twill,Mustard,Formal,1700,"28,30,32,34,36,38,40",Gents Indian Pleated tailored trouser Mustard design,True
+G036,Gents,Pant,Cargo pant - Variant 2,"Six pockets, relaxed tapered fit",Cotton twill,Teal,Streetwear,1800,"28,30,32,34,36,38,40",Gents Indian Cargo pant Teal design,True
+G037,Gents,Pant,Chino trouser - Variant 2,"Slim straight fit, slant pockets",Cotton stretch,Royal Blue,Smart casual,1550,"28,30,32,34,36,38,40",Gents Indian Chino trouser Royal Blue design,True
+G038,Gents,Pant,Linen summer trouser - Variant 2,"Drawstring waist, relaxed fit",Linen blend,Pastel Pink,Casual,1650,"28,30,32,34,36,38,40",Gents Indian Linen summer trouser Pastel Pink design,True
+G039,Gents,Jeans,Slim-fit denim jeans - Variant 2,"Five-pocket design, tapered leg",Denim,Wine,Casual,1900,"28,30,32,34,36,38,40",Gents Indian Slim-fit denim jeans Wine design,True
+G040,Gents,Jeans,Straight-fit denim jeans - Variant 2,"Classic five-pocket, straight leg",Denim,Black,Casual,1850,"28,30,32,34,36,38,40",Gents Indian Straight-fit denim jeans Black design,True
+G041,Gents,Kurta,Straight-cut kurta - Variant 2,"Mandarin collar, side slits, full sleeves",Cotton,Emerald Green,Traditional,1700,"XS,S,M,L,XL,XXL",Gents Indian Straight-cut kurta Emerald Green design,True
+G042,Gents,Kurta,Short kurta - Variant 2,"Short length, band collar, minimal buttons",Khadi cotton,Beige,Festive,1550,"XS,S,M,L,XL,XXL",Gents Indian Short kurta Beige design,True
+G043,Gents,Kurta,Pathani kurta set - Variant 2,"Pathani collar, front placket, matching salwar",Cotton,Ivory,Traditional,2500,"XS,S,M,L,XL,XXL",Gents Indian Pathani kurta set Ivory design,True
+G044,Gents,Sherwani,Wedding sherwani - Variant 2,"Structured fit, embroidered front, mandarin collar",Jacquard silk,Maroon,Wedding,7600,"XS,S,M,L,XL,XXL",Gents Indian Wedding sherwani Maroon design,True
+G045,Gents,Blazer,Two-button formal blazer - Variant 2,"Notch lapel, flap pockets, two-button closure",Poly-viscose,Mustard,Formal,4900,"XS,S,M,L,XL,XXL",Gents Indian Two-button formal blazer Mustard design,True
+G046,Gents,Blazer,Bandhgala jacket - Variant 2,"Closed neck, concealed buttons, tailored fit",Jacquard,Teal,Wedding,5300,"XS,S,M,L,XL,XXL",Gents Indian Bandhgala jacket Teal design,True
+G047,Gents,Waistcoat,Nehru waistcoat - Variant 2,"Mandarin collar, five-button front",Brocade,Royal Blue,Festive,2400,"XS,S,M,L,XL,XXL",Gents Indian Nehru waistcoat Royal Blue design,True
+G048,Gents,Shorts,Tailored casual shorts - Variant 2,"Above-knee length, side pockets",Cotton twill,Pastel Pink,Casual,1000,"28,30,32,34,36,38,40",Gents Indian Tailored casual shorts Pastel Pink design,True
+G049,Gents,Jacket,Casual zip jacket - Variant 2,"Stand collar, zip front, side pockets",Twill,Wine,Casual,2700,"XS,S,M,L,XL,XXL",Gents Indian Casual zip jacket Wine design,True
+G050,Gents,Dhoti Set,Kurta and dhoti set - Variant 2,Classic kurta with stitched dhoti,Cotton silk,Black,Traditional,2900,"XS,S,M,L,XL,XXL",Gents Indian Kurta and dhoti set Black design,True
